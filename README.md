@@ -1,4 +1,3 @@
-# TAAN PDF — Gizlilik Politikası / Privacy Policy
+# Taşındı
 
-Google Play için herkese açık gizlilik sayfası: https://4khomedeco.github.io/taan-pdf-gizlilik/
-Kaynak: 4Khomedeco/PDF-EDIT deposundaki pdf-editor-android/play/gizlilik-politikasi.html
+TAAN PDF gizlilik politikası artık: https://4khomedeco.github.io/gizlilik/taan-pdf/ (depo 4Khomedeco/gizlilik). Bu depo yalnızca yönlendirme içindir; silinebilir.
